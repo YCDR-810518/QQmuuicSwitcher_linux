@@ -1,0 +1,7 @@
+{
+  "uuid": "qqmusic-panel@local",
+  "name": "QQ Music Panel Controls",
+  "description": "Previous / play-pause / next buttons for QQ Music in the GNOME top bar, driven by MPRIS.",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "version": 1
+}
