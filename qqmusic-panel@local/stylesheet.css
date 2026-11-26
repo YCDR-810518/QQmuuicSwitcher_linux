@@ -1,0 +1,12 @@
+.qqmusic-panel-box {
+  spacing: 2px;
+}
+
+.qqmusic-button {
+  padding: 0 4px;
+  border-radius: 6px;
+}
+
+.qqmusic-button:hover {
+  background-color: rgba(255, 255, 255, 0.12);
+}
